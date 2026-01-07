@@ -1,1 +1,1 @@
-# L-CG
+# Cityguides.now
